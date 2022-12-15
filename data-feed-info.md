@@ -1,8 +1,8 @@
 Smart Contract Address : 
 
-    ```xdcff7412ea7c8445c46a8254dfb557ac1e48094391```
+    xdcff7412ea7c8445c46a8254dfb557ac1e48094391
 
-    ```0xff7412ea7c8445c46a8254dfb557ac1e48094391```
+    0xff7412ea7c8445c46a8254dfb557ac1e48094391
 
 OCA Hash :
 
