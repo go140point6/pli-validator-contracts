@@ -6,24 +6,24 @@ Smart Contract Address :
 
 OCA Hash :
 
-    ```0x41604bca2556d4da914f22f8ffe3120fddad597eadb8316ad7423bcecf896787```
+    0x41604bca2556d4da914f22f8ffe3120fddad597eadb8316ad7423bcecf896787
 
 OCA :
 
-    ```xdc9F255Bd2E3Dd2f63C3f55B00D2f99D701f9cf0e7```
+    xdc9F255Bd2E3Dd2f63C3f55B00D2f99D701f9cf0e7
     
-    ```0x9F255Bd2E3Dd2f63C3f55B00D2f99D701f9cf0e7```
+    0x9F255Bd2E3Dd2f63C3f55B00D2f99D701f9cf0e7
 
 Set Fulfillment Hash :
 
-    ```0x4582d935b6af4f10915d7cad7dc0ec2dc478cfc1f179b8b2445cd92f048d5beb```
+    0x4582d935b6af4f10915d7cad7dc0ec2dc478cfc1f179b8b2445cd92f048d5beb
 
 Bridge :
 
-    ```crypto-data-feed```
+    crypto-data-feed
 
-    ```http://localhost:5011```
+    http://localhost:5011
 
 Job :
 
-    ```38463c1d543b47f0995874710908ced0```
+    38463c1d543b47f0995874710908ced0
