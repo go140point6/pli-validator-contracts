@@ -68,3 +68,10 @@ ETH-USD :
 
     address: xdc1dB5625baF0Cea7Ce323f75848b9779256DdB933
 
+USDT-USD:
+
+Note this IC is purposely created with wrong jobID to test results (instead of 38463c1d543b47f0995874710908ced0, used prime_rib)
+
+    hash: 0xc2afe044b99d7a1f5e7d1f10c023edbfa9a505228679e3078fa74e4df4c3675b
+    
+    address: xdcf8812FC214fD7e99E19FC9FF0b4181B2C612BFd3
